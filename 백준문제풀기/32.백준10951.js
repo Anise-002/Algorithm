@@ -23,3 +23,6 @@ for (let i = 0; i < input.length - 1; i++) {
 //     console.log(result);
 //     i++;
 // }
+
+
+//https://www.acmicpc.net/board/view/70098
