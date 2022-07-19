@@ -20,3 +20,4 @@ for (let i = 1; i <= input; i++) {
   }
 }
 console.log(count);
+//https://hawaiian-pizza-it.tistory.com/16
